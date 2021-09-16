@@ -1,19 +1,12 @@
 ==========
 quotequail
 ==========
-.. image:: https://circleci.com/gh/closeio/quotequail/tree/master.svg?style=svg&circle-token=493e282bf7e3bf5e72bf3e255a116534ed8a79ab
-    :target: https://circleci.com/gh/closeio/quotequail/tree/master
 
 A library that identifies quoted text in plain text and HTML email messages.
 quotequail has no mandatory dependencies, however using HTML methods require
 libxml.
 
-
-(Interested in working on projects like this? `Close.io`_ is looking for `great engineers`_ to join our team)
-
-.. _Close.io: http://close.io
-.. _great engineers: http://jobs.close.io
-
+Forked from https://github.com/closeio/quotequail
 
 Introduction
 ------------
