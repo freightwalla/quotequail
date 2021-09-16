@@ -3,12 +3,12 @@ from setuptools import setup
 setup(
     name="quotequail",
     version="0.2.3",
-    url="http://github.com/closeio/quotequail",
+    url="https://github.com/freightwalla/quotequail",
     license="MIT",
     author="Thomas Steinacher",
     author_email="engineering@close.io",
-    maintainer="Thomas Steinacher",
-    maintainer_email="engineering@close.io",
+    maintainer="Afzal Shahul Hameed",
+    maintainer_email="eng@freightwalla.com",
     description="A library that identifies quoted text in plain text and HTML email messages.",
     long_description=__doc__,
     packages=[
